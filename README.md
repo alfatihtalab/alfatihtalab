@@ -1,4 +1,5 @@
-- 👋 Hi, I’m ##@alfatihtalab
+- 👋 #Hi, 
+        **I’m **@alfatihtalab**
 - 👀 I’m interested in Flutter, Flask, Django, FastApi
 - 🌱 I’m currently learning #Flutter 
 - 💞️ I’m looking to collaborate on a good place of recpect company
