@@ -8,7 +8,7 @@ _@alfatihtalab_ |
 - 👀 I’m interested in *Developing* and *Learning*
 - 🌱 I’m currently learning **Amazon Web Services**
 - 💞️ I’m looking to collaborate on a good place of respected company
-- 📫 How to reach me +249906078535 || +971583049149 || [send me email now>> alfatihtalab](alfatihtalab7@gmail.com)
+- 📫 How to reach me +249906078535 || +971583049149 || alfatihtalab7"@gmail.com
 - </> Programming languages: `C++, C#, Python, Dart, Kotlin, Java`
 - </> Framework: `Flutter, FastApi, Django, Flask, .NET`
 - OO skills: `Object Oriented Analysis, Object Oriented Design, Object Oriented Programming`
