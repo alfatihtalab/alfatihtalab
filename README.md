@@ -1,7 +1,7 @@
-#Hi, 👋
+# Hi, 👋 
 
 
->I’m **Alfatih Eltayeb**
+I’m *Alfatih Eltayeb*
 
 _@alfatihtalab_ |
 [Linkedin](https://www.linkedin.com/in/alfatihtalab/) |
