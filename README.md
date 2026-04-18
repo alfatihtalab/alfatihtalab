@@ -17,7 +17,6 @@ I'm a software developer focused on **AI-powered mobile apps**, **scalable backe
 
 ## Current interests
 - Designing production-ready mobile apps with AI features
-- Building scalable sync and messaging systems
 - Improving app reliability through strong architecture and clean patterns
 - Exploring cloud-native backend design
 
